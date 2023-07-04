@@ -27,7 +27,7 @@ The dataset includes 18 sheets, but I have focused my analysis on 4 specific she
 
 ## Changelog & Cleaning
 
-I utilized Microsoft Excel and SQL for data cleaning in this project. I checked all of the datasets for basic issues: blank spaces, duplicates, and inconsistencies. The following is the Excel specific cleaning done:
+I utilized Microsoft Excel and SQL for data cleaning in this project. I checked all of the datasets for basic issues: blank spaces, any duplicates, spacing issue, errors and dead columns. The following is the Excel specific cleaning done:
 
 * **All Sheets**  
 Checked for blanks on all sheets  
