@@ -1,5 +1,5 @@
 # Case Study 2 - How Can a Wellness Technology Company Play It Smart?
-## Introduction:
+## Introduction
 
 Hello and welcome to my first case study, the capstone project for the Google Data Analytics Certificate! This project is meant to showcase my skills developed in the course, specifically in Excel, SQL and Tableau. In this case study, we are being asked to analyze Fitbit data from Kaggle, in order to determine new growth opportunities for the fictional company, Bellabeat. I will note the step-by-step process moving forward.
 
