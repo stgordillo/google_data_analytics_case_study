@@ -12,6 +12,7 @@ Analyze smart device usage trends and propose ways to apply these trends to Bell
 ## Data Sources
 
 "Fitbit Fitness Tracker Data" suggested by the Google Data Analytics Certificate is found on Kaggle and created by data scientist, Möbius. The datasets were sourced from a survey performed by Amazon Mechanical Turk a study with tracked data from 30 Fitbit users who consented to the study.  
+Möbius. “Fitbit Fitness Tracker Data.” Kaggle, 16 Dec. 2020, https://www.kaggle.com/arashnic/fitbit.
 
 The data provided is from 03/12/2016 to 05/12/2016. Noted limitations include lack of demographic data, which can lead to problems for a tech company focused on women, and a lack of unspecified device models, which could cause variance in data.  
 
