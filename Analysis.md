@@ -2,7 +2,7 @@
 # In-Depth Analysis
 ## Explanation
 
-Here I'll answer the questions that were asked during the parts of the analysis.  You can find the questions and queries used to answer them in [Queries] (main/Queries.sql)
+Here I'll answer the questions that were asked during the parts of the analysis.  You can find the questions and queries used to answer them in [Queries.sql](https://github.com/stgordillo/google_data_analytics_case_study/blob/6040507f1254c64e0194036fa619314db4deb6c2/Queries.sql)
 
 **1. How many users are unique for each dataset?**
   
