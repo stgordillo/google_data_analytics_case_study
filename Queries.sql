@@ -84,9 +84,9 @@ FROM (
 I wanted to gather the information using WHERE and operators.*/
 SELECT *,
   (ROUND(total_minutes_asleep/60,1)) AS total_hours_asleep,
-  (time_before_sleep - total_minutes_asleep) AS minutes_til_sleep
+  (total_minutes_asleep - time_before_sleep) AS minutes_til_sleep
 FROM fitbit-391618.fitness.sleep_day_merged  
-WHERE (time_before_sleep - total_minutes_asleep) > 0
+WHERE (total_minutes_asleep - time_before_sleep) > 0
 
 /* 9. What trends can we find over time in daily_activity_merged?
 Found the AVG of the activity, sorted by date to see any trends*/
