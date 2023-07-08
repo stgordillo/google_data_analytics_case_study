@@ -51,6 +51,29 @@ Deleted "tracker_distance", logged_activities_distance", "very_active_distance",
 No changes were made to this sheet.
 
 
-## Data Analysis
+## Analysis Summary
 
-This section will be filled in as I complete the next stage.
+This section is a quick summary of my findings. You can find more details in the [Analysis](https://github.com/stgordillo/google_data_analytics_case_study/blob/11236e367117afb9e66edc059004f178c51b0eb3/Analysis.md)  and Visualizations  
+
+**Activity**
+
+    * All users tracked activity and majority tracked daily activity throughout the month.
+    * Majority of activity time is sendentary, more than the recommended amount.
+    * Activity wanes throughout the month.
+
+**Steps**
+
+    * Users prefer generating steps in the morning, and then has a short increase in the evening.
+    * Steps have a valley midweek and pick back up starting Friday.
+    * All users tracked steps.
+
+**Sleep**
+
+  * Majority of users tracked sleep, but not diligently.
+  * Half of users get recommended amount of sleep
+  * 13 users average
+
+**Weight**
+
+  * Low usage of weight tracker at only 8 users.
+  * Only 2 users were consistent throughout the month, the other 6 tracked 5 or less times.
