@@ -57,16 +57,16 @@ This section is a quick summary of my findings. You can find more details in the
 
 **Activity**
 
-    * All users tracked activity and majority tracked daily activity throughout the month.
-    * Majority of activity time is sendentary, more than the recommended amount.
-    * Activity wanes throughout the month.
+   * All users tracked activity and majority tracked daily activity throughout the month.
+   * Majority of activity time is sendentary, more than the recommended amount.
+   * Activity wanes throughout the month.
 
 **Steps**
 
-    * Users prefer generating steps in the morning, and then has a short increase in the evening.
-    * Steps have a valley midweek and pick back up starting Friday.
-    * All users tracked steps.
-
+   * Users prefer generating steps in the morning, and then generate a short increase in the evening.
+   * Steps have a valley midweek and pick back up starting Friday.
+   * All users tracked steps.
+    
 **Sleep**
 
   * Majority of users tracked sleep, but not diligently.
