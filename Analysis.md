@@ -25,10 +25,10 @@ This analysis looked at the "daily_activity_merged" table specifically. I found 
   Sedentary time was on the extreme end, being rather high at 15.87 hours. We also can see that step activity was highest on Sunday, with a decline every day until Saturday where it begins to go back up once again.  We can see a similar trend with total very activite minutes and calories burned as well.
 
 **7. How much sleep are users getting on average?**  
-  12 out of 24 users were within the recommeneded 7 - 9 hours of sleep, with 1 being at 10.86 hours and 1 with only 1 hours on average, although this outlier has only one logged time.  Only 15 users logged at least half the month, but of those users only 4 did not reach the recommended hours.
+  12 out of 24 users were within the recommended 7 - 9 hours of sleep, with 1 being at 10.86 hours and 1 with only 1 hours on average, although this outlier has only one logged time.  Only 15 users logged at least half the month, but of those users only 4 did not reach the recommended hours.
 
 **8. What's the total time users spend asleep?**  
-  Average hours slept between all users was just under the recommeneded 7 - 9 hours at 6.9.
+  Average hours slept between all users was just under the recommended 7 - 9 hours at 6.9.
 
 **9. What trends can we find over time in daily_activity_merged?**  
   Much like activity by the day, I found that activity over the month declined.  We can also see that for about 3 weeks, users got over 7000 steps per day, with only the last 4 days having less.
