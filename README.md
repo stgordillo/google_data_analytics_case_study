@@ -53,7 +53,7 @@ No changes were made to this sheet.
 
 ## Analysis Summary
 
-This section is a quick summary of my findings. You can find more details in the [Analysis](https://github.com/stgordillo/google_data_analytics_case_study/blob/11236e367117afb9e66edc059004f178c51b0eb3/Analysis.md)  and Visualizations  
+This section is a quick summary of my findings. You can find more details in the [Analysis](https://github.com/stgordillo/google_data_analytics_case_study/blob/11236e367117afb9e66edc059004f178c51b0eb3/Analysis.md)  and [Visualizations](https://github.com/stgordillo/google_data_analytics_case_study/blob/885fdd4017adb6f4f25d1bac2696e77ab0c51527/Visualizations.md).  
 
 **Activity**
 
