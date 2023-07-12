@@ -2,7 +2,6 @@
 
 ## Activies Analysis  
 ![Activity Trends per Day](https://github.com/stgordillo/google_data_analytics_case_study/assets/138537215/ab23a9bf-8d87-4ba4-bd86-20db7de4618c)  
-
 Here we can see that activities are strongest on Sunday, decrease as the week goes on until it begins to increase again.
 
 ## Sleep Analysis  
